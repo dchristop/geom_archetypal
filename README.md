@@ -19,7 +19,7 @@ Installation
 On the terminal of your operating system write and press enter:
 
 ```python
-$ pip install py_pcha
+$ pip install geom_archetypal
 ```
 
 Usage
